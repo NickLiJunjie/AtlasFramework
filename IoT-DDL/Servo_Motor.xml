@@ -91,11 +91,11 @@
 				<Vendor>Smraza</Vendor>
 				<Category>Hardware</Category>
 				<Type>Connected</Type>
-				<Description></Description>
+				<Description>Servo motor that allows controlled motion by angles</Description>
 			</Descriptive_Metadata>
 			<Services>
 				<Service_1>
-					<Name>Servo motor that allows controlled motion by angles</Name>
+					<Name>OperateMotor</Name>
 					<AppCategory>Automation</AppCategory>
 					<Type>Action</Type>
 					<Keywords>Motor,Run,Actuator,Servo</Keywords>
